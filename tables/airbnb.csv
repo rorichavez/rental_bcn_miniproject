@@ -1,0 +1,264 @@
+,type,name,nhab,services,rating,price_night,district_id,airbnb_id
+0,Habitacion privada,"Habitacion centro Barcelona, Ciutat Vella room.",2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Cocina,4.6,24,1,109
+1,Habitacion privada,"Room in the city center (Gothic,Rambla,Catedral)",1 huesped * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Cocina * Lavadora,4.48,25,1,209
+2,Alojamiento entero: piso,Outstanding aparment &Amazing location :),2 huespedes * 1 dormitorio * 1 cama * 1 bano,Wifi * Cocina * Aire acondicionado,4.77,85,1,183
+3,Habitacion de hostal,Habitacion Individual con bano compartido,"1 huesped * 1 dormitorio * 1 cama * 1,5 banos compartidos",Wifi * Aire acondicionado,4.73,44,1,120
+4,Habitacion privada,Mundi,"1 huesped * 1 dormitorio * 1 cama * 1,5 banos compartidos",Wifi * Cocina * Lavadora,4.56,32,1,173
+5,Habitacion privada,Private Room with Private Bathroom in BCN Center,2 huespedes * 1 dormitorio * 1 cama * 1 bano privado,Wifi * Cocina,4.87,65,1,200
+6,Habitacion privada,Super Room (A),2 huespedes * 1 dormitorio * 2 camas * 1 bano compartido,Wifi * Cocina,4.56,42,1,237
+7,Habitacion de hostal,"Hostal Nitzs BCN, Double Room w/ Shared Bathroom",2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi,4.33,49,1,147
+8,Habitacion privada,Quietpen PReial. Kit,"2 huespedes * 1 dormitorio * 1 cama * 1,5 banos",Wifi * Cocina * Lavadora * Aire acondicionado,4.61,59,1,203
+9,Habitacion privada,Barcelona's Heart,2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi,4.49,42,1,30
+10,Habitacion privada,Lovely and Cozy Bedroom Barcelona City Center,1 huesped * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Cocina,4.76,43,1,161
+11,Habitacion privada,Charming Place hidden in the center of Barcelona,2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Aire acondicionado,4.93,66,1,54
+12,Habitacion privada,Single Room in the heart of Barcelona,1 huesped * 1 dormitorio * 1 bano compartido,Wifi * Cocina * Lavadora,5.0,57,1,226
+13,Habitacion privada,Double room in Ramblas,2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi,4.38,44,1,88
+14,Habitacion privada,Room with private bathroom 5' to Las Ramblas,2 huespedes * 1 dormitorio * 1 cama * 1 bano privado,Wifi * Cocina * Lavadora,4.09,43,1,215
+15,Habitacion privada,A cosy room 2mns to Picasso museum,2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Cocina * Lavadora * Aire acondicionado,4.9,49,1,13
+16,Habitacion privada,(1double room! Historic cente) IN RAMBLAS,2 huespedes * 1 dormitorio * 2 camas * 1 bano compartido,Wifi * Cocina * Lavadora * Aire acondicionado,4.55,53,1,1
+17,Habitacion privada,Habitacion con terraza privada: RAVAL,"2 huespedes * 1 dormitorio * 1 cama * 1,5 banos compartidos",Wifi * Cocina * Lavadora,4.67,56,1,125
+18,Habitacion de hostal,"Hostal Nitzs BCN, Double Room w/ Private Bathroom",2 huespedes * 1 dormitorio * 1 cama * 1 bano privado,Wifi * Cocina,4.46,59,1,146
+19,Habitacion privada,Chill-out Room in the heart of Barcelona,"1 huesped * 1 dormitorio * 1 cama * 1,5 banos compartidos",Wifi,4.74,38,1,56
+20,Habitacion de hotel,"Habitacion Doble, en el corazon de Barcelona",2 huespedes * 1 dormitorio * 1 cama * 1 bano privado,Wifi * Aire acondicionado,4.14,69,1,119
+21,Habitacion privada,Single Room In La Barceloneta For a Female Guest,1 huesped * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Cocina * Lavadora * Aire acondicionado,4.45,26,1,225
+22,Alojamiento entero: piso,Double bed Studio next to the beach La Barceloneta,2 huespedes * 1 dormitorio * 1 cama * 1 bano,Wifi * Cocina * Lavadora * Aire acondicionado,,94,1,87
+23,Habitacion privada,Nice room with private bathroom in center,2 huespedes * 1 dormitorio * 1 cama * 1 bano privado,Wifi * Cocina * Lavadora,4.59,58,1,180
+24,Alojamiento entero: piso,NEW APARMENT PERFECT LOCATION,2 huespedes * Estudio * 1 cama * 1 bano,Wifi * Cocina * Lavadora * Aire acondicionado,4.69,115,1,175
+25,Habitacion privada,Central Single Room Near Plaza Catalunya,1 huesped * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Cocina * Lavadora,4.8,48,1,48
+26,Habitacion privada,Habitacion privada en el Born,2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Cocina,4.5,52,1,140
+27,Alojamiento entero: loft,PRIVATE LOFT IN THE BORNE,"2 huespedes * Estudio * 2 camas * 1,5 banos",Wifi * Cocina * Lavadora * Aire acondicionado,5.0,95,1,184
+28,Habitacion privada,Habitacion doble Barcelona Centro,2 huespedes * 1 dormitorio * 1 cama * 1 bano,Wifi * Cocina * Lavadora,4.5,44,1,128
+29,Habitacion de hostal,Habitacion Doble con bano privado externo- 1 cama,"2 huespedes * 1 dormitorio * 1 cama * 1,5 banos",Wifi * Aire acondicionado,,65,1,118
+30,Habitacion privada,Quietpen PReial. Rooftop,2 huespedes * 1 dormitorio * 1 cama * 1 bano privado,Wifi * Cocina * Lavadora * Aire acondicionado,4.62,63,1,204
+31,Habitacion privada,Room with big bed,2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Cocina * Aire acondicionado,4.56,40,1,214
+32,Habitacion privada,Gorgeous room with balcony in the city center,2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Cocina * Lavadora * Aire acondicionado,4.8,64,1,102
+33,Habitacion privada,Nice Flat at Barcelona,"1 huesped * 1 dormitorio * 1,5 banos compartidos",Wifi * Cocina * Lavadora * Aire acondicionado,4.25,36,1,178
+34,Habitacion privada,casa DERY Barcelona,2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Cocina * Lavadora,4.38,28,1,252
+35,Habitacion privada,Spacious room with natural light and privacy,"2 huespedes * 1 dormitorio * 2 camas * 1,5 banos compartidos",Wifi * Cocina * Lavadora,4.64,56,1,230
+36,Habitacion de hostal,Habitacion Doble con bano compartido - 2 camas,"2 huespedes * 1 dormitorio * 2 camas * 1,5 banos compartidos",Wifi * Aire acondicionado,4.86,58,1,115
+37,Habitacion privada,Room to rent in central Barcelona near la rambla,2 huespedes * 1 dormitorio * 1 bano privado,Wifi * Cocina * Lavadora,5.0,64,1,212
+38,Habitacion privada,Design Catalan Room El Born for 2 Persons,2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Cocina * Lavadora,4.79,63,1,80
+39,Habitacion privada,Habitacion acogedora en el Centro de Barcelona,2 huespedes * 1 dormitorio * 1 bano,Wifi,4.31,53,1,122
+40,Habitacion de hostal,Habitacion Doble con bano privado - 1 cama doble,"2 huespedes * 1 dormitorio * 1 cama * 1,5 banos",Wifi * Aire acondicionado,4.9,69,1,116
+41,Habitacion privada,Private -bedroom,2 huespedes * 1 dormitorio * 4 camas * 1 bano compartido,Wifi * Cocina * Lavadora,4.47,43,1,197
+42,Habitacion privada,Luxury room with private bathroom at Las Ramblas,2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Cocina * Aire acondicionado,4.81,78,1,170
+43,Habitacion privada,"Enjoy Room, private bathroom, center near beach",4 huespedes * 1 dormitorio * 3 camas * 1 bano privado,Wifi * Cocina * Aire acondicionado,4.4,70,1,94
+44,Habitacion privada,A small individual room in a sharing apartment,1 huesped * 1 dormitorio * 1 bano compartido,Wifi,4.64,39,1,14
+45,Habitacion privada,Secret Room For 2 Persons / Centre El Born,2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Cocina * Lavadora,4.58,67,1,224
+46,Habitacion privada,Room x 4 people ramblas beach,4 huespedes * 1 dormitorio * 3 camas * 1 bano compartido,Wifi * Cocina * Lavadora * Aire acondicionado,4.29,71,1,216
+47,Habitacion de hostal,Doble con bano compartido y ducha privada- 2 camas,"2 huespedes * 1 dormitorio * 2 camas * 1,5 banos compartidos",Wifi * Aire acondicionado,4.5,59,1,82
+48,Habitacion privada,42sqm Suite Next to Plaza Catalunya,4 huespedes * 1 dormitorio * 2 camas * 1 bano privado,Wifi * Cocina,4.81,84,1,9
+49,Habitacion privada,Cosy Room in the heart of Barcelona,2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Cocina * Lavadora * Aire acondicionado,4.69,59,1,65
+50,Habitacion privada,Room in the heart of barcelona - La Rambla,2 huespedes * 1 dormitorio * 1 cama * 1 bano privado,Wifi * Cocina * Lavadora,4.69,62,1,210
+51,Habitacion privada,Luxury Room with En Suite Bathroom,2 huespedes * 1 dormitorio * 1 cama * 1 bano privado,Wifi * Cocina * Aire acondicionado,4.72,78,1,167
+52,Habitacion privada,"Doble Room, Ramblas. Habitacion doble",2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi,4.4,52,1,81
+53,Habitacion privada,Super nice room for a balcony,2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Cocina * Lavadora,4.58,65,1,240
+54,Habitacion privada,Best location La Rambla private bathroom and A.C,2 huespedes * 1 dormitorio * 1 cama * 1 bano privado,Wifi * Lavadora,4.59,65,1,39
+55,Habitacion privada,Nice Room Macba,"2 huespedes * 1 dormitorio * 1 cama * 1,5 banos compartidos",Wifi,4.81,65,1,179
+56,Habitacion de hostal,Habitacion Doble con bano privado - 2 camas,"2 huespedes * 1 dormitorio * 2 camas * 1,5 banos",Wifi * Aire acondicionado,5.0,69,1,117
+57,Habitacion privada,Habitacion moderna en el born,2 huespedes * 1 dormitorio * 2 camas * 1 bano compartido,Wifi,4.78,52,1,137
+59,Habitacion privada,Room in the center of Barcelona 1,2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Cocina * Lavadora,4.44,55,1,207
+60,Habitacion privada,"Large cosy room in medieval town, city centre",2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Cocina * Lavadora,4.8,83,1,155
+61,Habitacion privada,Unique & Quiet Space in Heart of Barcelona,"3 huespedes * 1 dormitorio * 2 camas * 1,5 banos compartidos",Wifi * Cocina * Lavadora * Aire acondicionado,4.97,57,1,248
+62,Habitacion privada,Large room with private balcony 1,4 huespedes * 1 dormitorio * 3 camas * 1 bano compartido,Wifi * Cocina,4.54,71,1,156
+63,Habitacion privada,Stylish Balcony Private Room,2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Cocina * Lavadora,4.62,53,1,233
+64,Habitacion privada,"Room whith private bathroom, center near beach",4 huespedes * 1 dormitorio * 3 camas * 1 bano privado,Wifi * Cocina * Aire acondicionado,4.42,70,1,213
+65,Habitacion de hostal,Pension Ciudadela - Individual - Tarifa estandar,1 huesped * 1 dormitorio * 1 cama * 1 bano privado,Wifi * Aire acondicionado,4.73,59,1,185
+66,Habitacion de hotel,Lovely Double Room with balcony Born,2 huespedes * 1 dormitorio * 1 bano privado,Wifi * Aire acondicionado,4.62,77,1,160
+67,Habitacion privada,Cuarto Doble Acogedor en centro BCN. Calefaccion,2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi,4.84,65,1,73
+68,Habitacion privada,Barcelona One,1 huesped * 1 dormitorio * 1 cama * 1 bano compartido,Wifi,4.41,40,1,29
+69,Habitacion privada,Beauty Room for 2 Persons Centre El Born,2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Cocina * Lavadora,4.72,77,1,38
+70,Habitacion privada,Habitacion doble ( tranquila) cerca de Las Ramblas,2 huespedes * 1 dormitorio * 2 camas * 2 banos compartidos,Wifi * Lavadora,4.9,50,1,127
+71,Habitacion privada,Luxurious Room with En Suite Bathroom,2 huespedes * 1 dormitorio * 1 bano privado,Wifi * Cocina * Aire acondicionado,4.88,95,1,166
+72,Habitacion privada,Luxury room with private bathroom 2,3 huespedes * 1 dormitorio * 1 bano privado,Wifi * Cocina * Lavadora,4.53,76,1,169
+73,Habitacion privada,Habitacion-1,2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Cocina,4.73,51,1,112
+74,Habitacion privada,Beautiful Bedroom Barcelona City Center,2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Cocina * Lavadora,4.84,66,1,33
+75,Habitacion privada,HAB PRIVADA,"2 huespedes * 3 dormitorios * 1 cama * 1,5 banos compartidos",Wifi * Aire acondicionado,4.52,45,1,105
+76,Habitacion privada,Large room with private bathroom and balcony a,4 huespedes * 1 dormitorio * 4 camas * 1 bano compartido,17 dic. - 19 dic.,,70,1,157
+77,Habitacion privada,Habitacion privada en el gotico,"2 huespedes * 1 dormitorio * 2 camas * 1,5 banos",Wifi * Cocina * Lavadora,4.94,53,1,141
+78,Alojamiento entero: piso,OLA LIVING BORN 10 ATTIC,2 huespedes * Estudio * 1 cama * 1 bano,Wifi * Cocina * Aire acondicionado,4.0,102,1,181
+79,Alojamiento entero: loft,Centric studio de Born,"3 huespedes * 1 dormitorio * 3 camas * 1,5 banos",Wifi * Cocina * Lavadora * Aire acondicionado,4.2,90,1,53
+80,Alojamiento entero: piso,My Address in Plaza Real views,4 huespedes * 2 dormitorios * 4 camas * 1 bano,Tu anfitrion es una empresa * Wifi * Aire acondicionado,4.42,175,1,174
+81,Habitacion privada,Gorgeous 30 sqm Suite in the heart of Barcelona,4 huespedes * 1 dormitorio * 2 camas * 1 bano privado,Wifi * Cocina,4.71,78,1,101
+83,Habitacion privada,Room in the center of Barcelona 2,2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi,4.39,49,1,208
+84,Alojamiento entero: piso,Tallers Angels,2 huespedes * 1 dormitorio * 1 cama * 1 bano,Wifi * Cocina * Lavadora * Aire acondicionado,4.6,136,1,241
+85,Habitacion privada,Lovely double room heart Barcelona,2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Cocina * Lavadora,4.41,73,1,163
+86,Habitacion privada,Cuarto Doble con Bano privado. Calefaccion.,2 huespedes * 1 dormitorio * 1 cama * 1 bano privado,Wifi * Aire acondicionado,4.8,79,1,74
+87,Habitacion privada,Room close to Las Ramblas E3,3 huespedes * 1 dormitorio * 3 camas * 1 bano compartido,Wifi * Cocina * Aire acondicionado,4.27,58,1,206
+88,Habitacion de hotel,"Habitacion Twin, en el corazon de Barcelona",2 huespedes * 1 dormitorio * 2 camas * 1 bano privado,Wifi * Aire acondicionado,4.36,75,1,121
+89,Habitacion privada,Dormitorio X 2 personas LOVE- AIR,2 huespedes * 1 dormitorio * 2 camas * 1 bano privado,Wifi * Cocina,4.2,53,1,83
+90,Habitacion privada,Agradable habitacion en pleno centro de Barcelona,"1 huesped * 1 dormitorio * 1 cama * 1,5 banos compartidos",Wifi * Cocina * Aire acondicionado,4.57,29,9,17
+91,Habitacion privada,Comfortable single room 5' from Sants Station,1 huesped * 1 dormitorio * 1 cama * 1 bano compartido,Wifi,4.88,39,9,63
+92,Habitacion privada,Airy Private Double Bedroom in Central Barcelona,"2 huespedes * 1 dormitorio * 1 cama * 1,5 banos compartidos",Wifi * Cocina * Lavadora,4.76,42,9,18
+93,Habitacion privada,habitacion doble cercana a las fuentes de Montjuic,"2 huespedes * 1 dormitorio * 1 cama * 1,5 banos compartidos",Wifi * Cocina * Lavadora * Aire acondicionado,4.73,36,9,257
+94,Habitacion privada,"Bonitas vistas en el centro ,",2 huespedes * 1 dormitorio * 1 bano compartido,Wifi,4.79,30,9,41
+95,Alojamiento entero: piso,Apto. centrico ideal para parejas,"2 huespedes * 1 dormitorio * 1 cama * 1,5 banos",Wifi * Cocina * Lavadora * Aire acondicionado,4.52,71,9,25
+96,Habitacion privada,confortable room,2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Cocina * Lavadora,4.47,36,9,254
+97,Habitacion privada,Private Double Bedroom in Central Barcelona,"2 huespedes * 1 dormitorio * 1 cama * 1,5 banos compartidos",Wifi * Cocina * Lavadora,5.0,54,9,198
+98,Alojamiento entero: loft,Un espacio con encanto en Barcelona,1 huesped * Estudio * 2 camas * 1 bano,Wifi * Cocina * Lavadora * Aire acondicionado,4.81,107,9,247
+99,Habitacion privada,Charming private 1 bedroom w/ balcony in Poble Sec,2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Cocina * Lavadora,4.86,53,9,55
+100,Alojamiento entero: piso,"SAN&SUN, vintage loft in city center",4 huespedes * 1 dormitorio * 2 camas * 1 bano,Wifi * Cocina * Aire acondicionado,4.71,101,9,217
+101,Alojamiento entero: piso,Penthouse with terrace (plaza Espana),2 huespedes * 1 dormitorio * 1 cama * 1 bano,Wifi * Cocina * Lavadora * Aire acondicionado,4.83,96,9,186
+102,Habitacion privada,Central room in plaza Espana,"2 huespedes * 1 dormitorio * 1 cama * 1,5 banos compartidos",Wifi * Cocina * Aire acondicionado,4.75,53,9,49
+103,Habitacion privada,Habitacion con dos camas individuales en Poblesec,2 huespedes * 1 dormitorio * 2 camas * 1 bano compartido,Wifi * Cocina * Aire acondicionado,4.81,42,9,124
+104,Habitacion privada,B&B 1 -Habitacion privada cerca Estacion de Sants.,1 huesped * 1 dormitorio * 1 cama * 2 banos compartidos,Wifi,4.32,36,9,27
+105,Habitacion privada,Spotless db room + private bathroom Sants Stn,3 huespedes * 1 dormitorio * 1 cama * 1 bano privado,Wifi * Aire acondicionado,4.81,73,9,231
+106,Habitacion privada,Habitacion Sants-Monjuic,1 huesped * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Cocina * Lavadora,,30,9,108
+107,Alojamiento entero: piso,"Bonito y Centrico! Plaza Espana-FIRA- Rambla 10""",2 huespedes * 1 dormitorio * 1 cama * 1 bano,Wifi * Cocina * Lavadora,4.49,116,9,44
+108,Habitacion privada,Beautiful Room in GRAN VIA next Pl. Espana,2 huespedes * 1 dormitorio * 1 cama * 1 bano privado,Wifi * Cocina * Aire acondicionado,4.83,64,9,34
+109,Alojamiento entero: piso,Tranquilo apartamento zona de moda y cerca centro,2 huespedes * 1 dormitorio * 1 cama * 1 bano,Wifi * Cocina * Lavadora * Aire acondicionado,4.73,98,9,245
+110,Habitacion privada,Preciosa habitacion con un balcon,2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Cocina * Lavadora,4.83,64,9,189
+111,Habitacion de hotel,Double Eco-room (Double eco-room with private bathroom),2 huespedes * 1 dormitorio * 1 cama * 1 bano,Wifi * Aire acondicionado,4.61,58,9,84
+112,Habitacion privada,The Room in BCN,2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Cocina * Lavadora,4.86,56,9,242
+113,Alojamiento entero: piso,Increible piso de 4BR FUENTES DE MONTJUIC !!!,6 huespedes * 4 dormitorios * 6 camas * 2 banos,Wifi * Cocina * Lavadora * Aire acondicionado,4.48,146,9,153
+114,Alojamiento entero: piso,Attic with terrace,4 huespedes * 2 dormitorios * 3 camas * 2 banos,Wifi * Cocina * Lavadora * Aire acondicionado,4.82,127,9,26
+115,Alojamiento entero: piso,ATICO CON TERRAZA PRIVADA PLAZA ESPANA,2 huespedes * 1 dormitorio * 1 cama * 1 bano,Wifi * Cocina * Lavadora * Aire acondicionado,4.79,111,9,260
+116,Habitacion privada,KIDS PARADISE WITH A HUGE SUNNY TERRACE IN SANTS,2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Cocina * Lavadora * Aire acondicionado,4.87,53,9,154
+117,Alojamiento entero: piso,Comodo y economico piso muy cerca del Gotico,4 huespedes * 2 dormitorios * 3 camas * 1 bano,Wifi * Cocina * Lavadora * Aire acondicionado,4.58,108,9,77
+118,Alojamiento entero: piso,OZONE DISINFECTED design apartment in the center,3 huespedes * 1 dormitorio * 1 cama * 1 bano,Wifi * Cocina * Lavadora * Aire acondicionado,4.84,107,9,182
+119,Habitacion privada,Cozy nice room en Plaza Espana,"2 huespedes * 1 dormitorio * 1 cama * 1,5 banos compartidos",Wifi * Cocina,4.6,52,9,69
+120,Habitacion privada,Marina Room close to downtown,2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi,4.65,53,9,171
+122,Habitacion privada,comoda habitacion en el centro de barcelona,2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Lavadora,4.68,54,9,253
+123,Habitacion privada,Room near the center,2 huespedes * 1 dormitorio * 1 cama * 1 bano,Wifi,4.21,36,9,211
+124,Habitacion privada,Comfortable single room,1 huesped * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Cocina,4.57,37,2,62
+125,Habitacion privada,Habitacion doble con balcon panoramico,2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi,4.55,42,2,129
+126,Habitacion privada,Small room in the Heart of BARCELONA.,1 huesped * 1 dormitorio * 1 cama * 1 bano compartido,Wifi,4.4,30,2,228
+127,Habitacion privada,Habitacion doble en Sagrada Familia,2 huespedes * 1 dormitorio * 1 cama * 2 banos compartidos,Wifi * Cocina * Lavadora,4.33,33,2,130
+128,Habitacion privada,Habitacion doble en Sagrada Familia,2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi,4.25,48,2,130
+129,Habitacion privada,excelente room doble/TV/terraza plaza Espana/sants,2 huespedes * 1 dormitorio * 1 cama * 2 banos compartidos,Wifi * Cocina,4.95,35,2,255
+130,Habitacion privada,Vegan friendly apt - 300m to Sagrada Familia,2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Cocina * Lavadora * Aire acondicionado,4.83,59,2,249
+131,Habitacion privada,Espectacular habitacion doble con balcon,2 huespedes * 1 dormitorio * 1 cama * 2 banos compartidos,Wifi,4.61,42,2,95
+132,Habitacion privada,NEW RENOVATED ROOM . SHARE APARMENT,2 huespedes * 1 dormitorio * 1 cama * 2 banos compartidos,Wifi * Cocina * Lavadora,4.43,48,2,176
+133,Habitacion privada,Habitacion privada en Sagrada Familia ,1 huesped * 1 dormitorio * 1 cama * 1 bano compartido,Wifi,4.83,49,2,139
+134,Habitacion privada,Habitacion privada Sagrada Familia,"1 huesped * 1 dormitorio * 2,5 banos compartidos",17 dic. - 19 dic.,,36,2,138
+135,Habitacion privada,Amplia y comoda habitacion doble con balcon,2 huespedes * 1 dormitorio * 1 cama * 2 banos compartidos,Wifi,4.52,42,2,22
+136,Habitacion privada,Pequenaadorable habitacion BCN,1 huesped * 1 dormitorio * 1 cama * 1 bano compartido,Wifi,4.42,29,2,187
+137,Habitacion privada,Villa Gil 2,1 huesped * 1 dormitorio * 1 cama * 1 bano compartido,Wifi,4.59,35,2,251
+138,Alojamiento entero: loft,Classical loft close to pedrera!,4 huespedes * 1 dormitorio * 1 cama * 1 bano,Wifi * Cocina * Lavadora * Aire acondicionado,4.34,94,2,60
+139,Habitacion privada,Centric Double Room Private Bathroom,2 huespedes * 1 dormitorio * 1 cama * 2 banos,Wifi * Cocina * Lavadora,4.76,51,2,51
+140,Habitacion de hotel boutique,"Hostal Khronos, Double Room with Balcony",2 huespedes * 1 dormitorio * 1 cama * 1 bano privado,Wifi * Aire acondicionado,4.55,77,2,144
+141,Habitacion privada,Spacious Cosy room & Private balcony and bathroom,2 huespedes * 1 dormitorio * 1 cama * 1 bano privado,Wifi * Aire acondicionado,5.0,53,2,229
+142,Habitacion privada,Bonito piso en Barcelona!,"2 huespedes * 1 dormitorio * 1 cama * 1,5 banos compartidos",Wifi * Cocina,4.87,51,2,43
+143,Habitacion de hotel,Hola Hostal Eixample. Cama en dormitorio 24pax,1 huesped * 1 dormitorio,Wifi * Cocina * Lavadora * Aire acondicionado,4.43,19,2,143
+144,Habitacion privada,Lovely doble room in the center of BCN,"2 huespedes * 1 dormitorio * 1 cama * 1,5 banos compartidos",Wifi,4.3,33,2,162
+145,Habitacion privada,Sheng Jia Tang Fu Jin Dan Ren Jian ,"1 huesped * 1 dormitorio * 1,5 banos compartidos",Wifi * Lavadora,4.86,26,2,263
+146,Habitacion privada,Mihlton B&B Habitacion individual bano privado,1 huesped * 1 dormitorio * 1 cama * 1 bano privado,Wifi * Aire acondicionado,4.67,59,2,172
+147,Habitacion privada,Room Sagrada Familia + Rooftop,2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Cocina * Lavadora,4.65,51,2,205
+148,Habitacion de hotel boutique,Double Room Gallery extra bed,2 huespedes * 1 dormitorio * 2 camas * 1 bano,Wifi * Aire acondicionado,4.29,80,2,85
+149,Alojamiento entero: piso,Precioso Estudio en Barcelona *Bcn* E04,3 huespedes * 1 dormitorio * 1 cama * 1 bano,Tu anfitrion es una empresa * Wifi * Cocina * Lavadora,4.62,103,2,193
+150,Habitacion privada,Gran Habitacion en el Centro de Barcelona,2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Cocina * Lavadora,4.75,76,2,104
+151,Alojamiento entero: piso,Sunny apartment next to Sagrada Familia,2 huespedes * 1 dormitorio * 1 cama * 1 bano,Tu anfitrion es una empresa * Wifi * Cocina * Aire acondicionado,4.9,110,2,235
+152,Habitacion privada,BEAUTIFUL DOUBLE ROOM Sagrada Familia,2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Cocina * Lavadora,4.94,58,2,28
+153,Alojamiento entero: loft,Stylish 1-bedroom Apartment + Loft/Downtown BCN,5 huespedes * 1 dormitorio * 1 cama * 1 bano,Wifi * Cocina * Lavadora * Aire acondicionado,4.68,114,2,232
+154,Habitacion privada,Centric bedroom with private bath & views,2 huespedes * 1 dormitorio * 1 cama * 1 bano privado,Wifi * Aire acondicionado,4.86,55,2,52
+155,Habitacion privada,Cozy Room in Eixample (downtown Barcelona) 3,"2 huespedes * 1 dormitorio * 1 cama * 1,5 banos compartidos",Wifi * Cocina * Lavadora,4.39,61,2,67
+156,Habitacion privada,Habitacion doble/Sagrada Familia-Barcelona,2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Cocina,4.45,45,2,133
+157,Alojamiento entero: piso,Little Pretty Place... en el Corazon de Barcelona,4 huespedes * 2 dormitorios * 4 camas * 1 bano,Wifi * Cocina * Lavadora * Aire acondicionado,4.5,100,2,158
+158,Habitacion privada,Habitacion en centro de Barcelona con bano privado,2 huespedes * 1 dormitorio * 1 cama * 1 bano privado,Wifi,4.66,59,2,110
+159,Alojamiento entero: piso,2-1 * Loft a 10 minutos de la Sagrada Familia,4 huespedes * 1 dormitorio * 1 cama * 1 bano,Wifi * Cocina * Lavadora * Aire acondicionado,4.58,117,2,4
+160,Habitacion privada,Double room in Sagrada Familia.,2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Cocina * Lavadora,4.87,51,2,89
+161,Alojamiento entero: loft,Precioso Estudio en Barcelona *Bcn* E01,3 huespedes * 1 dormitorio * 1 cama * 1 bano,Tu anfitrion es una empresa * Wifi * Cocina * Lavadora,4.57,103,2,192
+162,Habitacion de hostal,Cozy and Modern Single Room,1 huesped * 1 dormitorio * 1 cama * 1 bano privado,Wifi * Lavadora * Aire acondicionado,4.75,62,2,68
+163,Habitacion privada,"Sagrada familia, centrico exterior.Piso particular","2 huespedes * 1 dormitorio * 1 cama * 1,5 banos compartidos",Wifi * Cocina * Lavadora * Aire acondicionado,5.0,45,2,223
+164,Alojamiento entero: piso,Precioso Apartamento en Barcelona *Bcn* E02,3 huespedes * 1 dormitorio * 2 camas * 1 bano,Wifi * Cocina * Aire acondicionado,4.6,103,2,190
+165,Alojamiento entero: loft,Precioso Loft en Barcelona *Bcn* E03.,3 huespedes * Estudio * 2 camas * 1 bano,Tu anfitrion es una empresa * Wifi * Cocina * Aire acondicionado,4.56,103,2,195
+166,Habitacion privada,Cozy Room in Eixample (downtown Barcelona) 2,"2 huespedes * 1 dormitorio * 1 cama * 1,5 banos compartidos",Wifi * Cocina * Lavadora,4.5,61,2,66
+167,Habitacion privada,Habitacion doble ideal para parejas,2 huespedes * 1 dormitorio * 1 cama * 1 bano,Wifi * Cocina,4.83,58,2,131
+168,Apartamento con servicios entero,Estudio luminoso en el centro de Barcelona,2 huespedes * Estudio * 2 camas * 1 bano,Wifi * Cocina * Lavadora * Aire acondicionado,4.7,122,2,97
+169,Alojamiento entero: loft,Precioso Loft en Barcelona *Bcn* C03,3 huespedes * Estudio * 2 camas * 1 bano,Tu anfitrion es una empresa * Wifi * Cocina * Lavadora,4.66,130,2,194
+170,Habitacion privada,Finca Modernista S. XIX Arc del Triunf Hab. Single,"1 huesped * 1 dormitorio * 2 camas * 1,5 banos compartidos",Wifi * Cocina,4.93,42,2,100
+171,Alojamiento entero: piso,5-3 * Apartamento con encanto en Barcelona,4 huespedes * 2 dormitorios * 2 camas * 1 bano,Wifi * Cocina * Lavadora * Aire acondicionado,4.71,131,2,12
+172,Habitacion de hotel,Tiny Double Room,2 huespedes * 1 dormitorio * 1 bano privado,Wifi * Aire acondicionado,4.69,70,2,244
+173,Habitacion privada,DOUBLE ROOM NEAR TO THE BEACH AND SAGRADA FAMILIA,2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Cocina * Lavadora,4.31,52,2,79
+174,Habitacion privada,"Centrico, tranquilo y seguro","2 huespedes * 1 dormitorio * 1 cama * 1,5 banos compartidos",Wifi * Cocina,4.78,58,2,75
+175,Alojamiento entero: piso,4-4 * Centrico apartamento de diseno,4 huespedes * 2 dormitorios * 2 camas * 1 bano,Wifi * Cocina * Lavadora * Aire acondicionado,5.0,130,2,8
+176,Alojamiento entero: piso,5-1 * Precioso apartamento en el centro de Barcelona,4 huespedes * 2 dormitorios * 2 camas * 1 bano,Wifi * Cocina * Lavadora * Aire acondicionado,4.33,120,2,10
+177,Habitacion privada,habitacion privada en Sants estacion,2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi,4.56,26,2,258
+178,Habitacion privada,Quiet Room in a Catalan Modernist Apartment,"2 huespedes * 1 dormitorio * 1 cama * 1,5 banos compartidos",Wifi * Cocina * Lavadora,,60,2,202
+179,Alojamiento entero: piso,Precioso Estudio en Barcelona *Bcn* A01,3 huespedes * Estudio * 2 camas * 1 bano,Tu anfitrion es una empresa * Wifi * Cocina * Lavadora,4.76,103,2,191
+180,Habitacion de hotel,Estilo atemporal en habitacion doble con balcon,2 huespedes * 1 dormitorio * 1 bano privado,Wifi * Aire acondicionado,4.52,84,2,96
+181,Habitacion de hotel boutique,"Habitacion Doble Exterior, bano privado y balcon",2 huespedes * 1 dormitorio * 1 cama * 1 bano privado,Wifi * Aire acondicionado,4.56,87,2,113
+182,Alojamiento entero: loft,Estudio&terraza/magicas vistas,2 huespedes * 1 dormitorio * 2 camas * 1 bano,Wifi * Cocina * Lavadora * Aire acondicionado,4.92,154,2,98
+183,Habitacion privada,HABITACION CERCA A SAGRADA FAMILIA Y PLAYA,2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Cocina * Lavadora,4.51,59,2,106
+184,Alojamiento entero: piso,E-1 * E-1 * Apartamento centrico,4 huespedes * 2 dormitorios * 2 camas * 1 bano,Wifi * Cocina * Lavadora * Aire acondicionado,4.45,115,2,90
+185,Alojamiento entero: piso,5-2 * Apartamento centrico en Barcelona,4 huespedes * 1 dormitorio * 1 cama * 1 bano,Wifi * Cocina * Lavadora * Aire acondicionado,4.63,127,2,11
+186,Habitacion privada,Sagrada Familia Apartment + Rooftoph,2 huespedes * 1 dormitorio * 1 cama * 1 bano,Wifi * Cocina * Lavadora,4.14,51,2,221
+187,Habitacion privada,Bu Xing 2Fen Zhong Dao Sheng Jia Tang De Jia Ting Min Su ,2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Lavadora,4.55,38,2,264
+188,Habitacion de hotel boutique,"Hostal Khronos, Twin Ecomony",2 huespedes * 1 dormitorio * 2 camas * 1 bano privado,Wifi * Aire acondicionado,4.75,72,2,145
+189,Habitacion privada,Fantastica Habitacion #3 a 1 min del Arc de Triomf,"2 huespedes * 1 dormitorio * 1 cama * 1,5 banos compartidos",Wifi * Cocina,4.75,63,2,99
+190,Alojamiento entero: piso,Sagrada Familia charming,8 huespedes * 3 dormitorios * 5 camas * 2 banos,Wifi * Cocina * Lavadora * Aire acondicionado,4.82,165,2,222
+191,Habitacion privada,Bowindow Room in Catalan Modernist Apartment,"2 huespedes * 4 dormitorios * 3 camas * 1,5 banos compartidos",Wifi * Cocina * Lavadora,,62,2,45
+192,Alojamiento entero: piso,A3 Passeig de Gracia & Apartment Enjoy it Forever,2 huespedes * 1 dormitorio * 1 cama * 1 bano,Wifi * Cocina * Lavadora * Aire acondicionado,4.13,107,2,15
+193,Alojamiento entero: piso,1-1 * Apartamento a 10 minutos de la Sagrada Familia,2 huespedes * 2 dormitorios * 2 camas * 1 bano,Wifi * Cocina * Lavadora * Aire acondicionado,4.87,112,2,2
+194,Habitacion privada,Amplia habitacion con terraza y bano privado,2 huespedes * 1 dormitorio * 1 cama * 1 bano privado,Wifi * Lavadora,4.88,86,2,21
+195,Habitacion privada,"Private Lounge, bathroom & bedroom",4 huespedes * 1 dormitorio * 1 cama * 1 bano privado,Wifi * Cocina * Lavadora,4.84,84,2,199
+196,Alojamiento entero: piso,Bright and roomy flat city center,"6 huespedes * 4 dormitorios * 4 camas * 1,5 banos",Wifi * Cocina * Lavadora * Aire acondicionado,4.56,95,2,46
+197,Alojamiento entero: piso,Cozy small Apartment,3 huespedes * 2 dormitorios * 2 camas * 1 bano,Tu anfitrion es una empresa * Wifi * Cocina * Lavadora,4.18,133,2,72
+198,Alojamiento entero: piso,3-4 * Acogedor apartamento en Barcelona,3 huespedes * 2 dormitorios * 2 camas * 1 bano,Wifi * Cocina * Lavadora * Aire acondicionado,4.77,126,2,7
+199,Alojamiento entero: piso,Apartamento soleado cerca de Ramblas Wifi *Bcn*,6 huespedes * 2 dormitorios * 3 camas * 1 bano,Tu anfitrion es una empresa * Wifi * Cocina * Lavadora,4.15,118,2,24
+200,Habitacion privada,2. Room in the city center near Sagrada Familia.,2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Cocina * Lavadora,4.43,52,2,5
+201,Habitacion privada,Chilling Center,1 huesped * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Aire acondicionado,4.57,57,2,57
+202,Habitacion privada,tranquila y confortable habitacion SAGRADA FAMILIA,2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Cocina * Lavadora,4.59,57,2,259
+203,Habitacion de hostal,"Habitacion Doble Superior, Bano Privado",2 huespedes * 1 dormitorio * 2 camas * 1 bano privado,Wifi * Aire acondicionado,5.0,61,2,114
+204,Apartamento con servicios entero,Luminoso Loft en Sagrada Familia!,2 huespedes * 1 dormitorio * 1 cama * 1 bano,Wifi * Cocina * Aire acondicionado,4.68,93,2,165
+205,Habitacion privada,Sunny Double Room close to Sagrada Familia,2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Cocina * Lavadora,5.0,56,2,234
+206,Apartamento con servicios entero,The Sagrada Familia Apartment,3 huespedes * 1 dormitorio * 1 cama * 1 bano,Wifi * Cocina * Lavadora * Aire acondicionado,4.53,107,2,243
+207,Alojamiento entero: piso, CASA MIRO by Cocoon Barcelona,4 huespedes * 1 dormitorio * 2 camas * 1 bano,Wifi * Cocina * Lavadora * Aire acondicionado,4.76,142,2,261
+208,Habitacion privada,Villa Gil,2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi,4.32,51,2,250
+209,Habitacion de hotel boutique,Comfort Double Room City View,2 huespedes * 1 dormitorio * 1 cama * 1 bano,Wifi * Aire acondicionado,4.7,87,2,61
+210,Apartamento con servicios entero,Comodos apartamentos cerca de Las Ramblas,6 huespedes * 2 dormitorios * 4 camas * 2 banos,Wifi * Cocina * Lavadora * Aire acondicionado,4.65,165,2,78
+211,Alojamiento entero: piso,3-3 * Apartamento centrico para 3 personas,3 huespedes * 2 dormitorios * 2 camas * 1 bano,Wifi * Cocina * Lavadora * Aire acondicionado,3.9,117,2,6
+212,Habitacion privada, Nice and cozy Bedroom  Picasso Room,2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Cocina * Lavadora,4.91,45,2,262
+213,Alojamiento entero: piso,Lovely &Cozy Flat 9 min walk from Sagrada Familia,2 huespedes * 1 dormitorio * 2 camas * 1 bano,Wifi * Cocina * Lavadora * Aire acondicionado,4.58,122,2,159
+214,Habitacion privada,Beautiful and sunny apartment at Eixample!,2 huespedes * 1 dormitorio * 1 cama * 1 bano,Wifi * Cocina * Lavadora,,58,2,35
+215,Habitacion privada,Habitacion en Gracia cerca del Park Guell,2 huespedes * 1 dormitorio * 2 camas * 1 bano compartido,Wifi * Cocina * Lavadora,4.78,29,3,134
+216,Habitacion de hotel boutique,Super Suite H4* Gracia Stay & Up n4,2 huespedes * 1 dormitorio * 1 cama * 1 bano privado,Wifi * Aire acondicionado,4.74,70,3,239
+217,Habitacion privada,Beautiful bedroom with balcony in best area,2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Cocina,4.69,51,3,37
+218,Habitacion de hotel boutique,Super Suite H4* Gracia Stay & Up n2,2 huespedes * 1 dormitorio * 1 cama * 1 bano privado,Wifi * Aire acondicionado,4.84,73,3,238
+219,Habitacion privada,Huge and bright double room,2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Cocina,4.61,51,3,148
+220,Habitacion privada,Cozy room in the heart of BARCELONA,2 huespedes * 1 dormitorio * 2 camas * 1 bano compartido,Wifi,4.77,55,3,70
+221,Habitacion privada,Habitacion dobe con terraza en el Gracia,2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Aire acondicionado,4.17,39,3,126
+222,Alojamiento entero: piso,Nice & Cozy Apartment in Gracia,4 huespedes * 1 dormitorio * 2 camas * 1 bano,Wifi * Cocina * Lavadora * Aire acondicionado,4.87,124,3,177
+223,Habitacion privada,Habitacion amplia en casa antigua,"2 huespedes * 1 dormitorio * 1 cama * 2,5 banos compartidos",Wifi * Lavadora,4.45,45,3,123
+224,Alojamiento entero: piso,City center Gracia 5 min to Sagrada Familia,6 huespedes * 3 dormitorios * 3 camas * 1 bano,Wifi * Cocina * Lavadora * Aire acondicionado,4.67,114,3,58
+225,Habitacion privada,Luminosa habitacion en casa en Barcelona,"2 huespedes * 1 dormitorio * 1 cama * 2,5 banos compartidos",Wifi * Lavadora,4.79,49,3,164
+226,Habitacion privada,Single room in the heart of Gracia,1 huesped * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Cocina * Aire acondicionado,4.53,40,3,227
+227,Habitacion privada,Single room in the heart of Gracia,1 huesped * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Cocina * Aire acondicionado,4.53,40,3,227
+228,Habitacion privada,"Bcn. Gracia, tranquilo y con terraza",1 huesped * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Cocina * Lavadora,4.83,36,3,31
+229,Habitacion privada,Bonita habitacion en casa en Barcelona,"2 huespedes * 1 dormitorio * 1 cama * 2,5 banos compartidos",Wifi * Lavadora,4.79,42,3,40
+230,Alojamiento entero: piso,"InBarcelonaSuites, Paseo de Gracia, 4 guests.",4 huespedes * 1 dormitorio * 2 camas * 1 bano,Wifi * Cocina * Lavadora * Aire acondicionado,4.85,136,3,152
+231,Alojamiento entero: piso,Bonito piso al lado parque Guell1,4 huespedes * Estudio * 2 camas * 1 bano,Wifi * Cocina * Lavadora * Aire acondicionado,4.42,81,3,42
+232,Habitacion privada,Comoda habitacion doble en casa antigua,"2 huespedes * 1 dormitorio * 1 cama * 2,5 banos compartidos",Wifi * Lavadora,4.8,45,3,76
+233,Alojamiento entero: piso,Beautiful apartment sagrada familia/parque guell,4 huespedes * 2 dormitorios * 3 camas * 1 bano,Wifi * Cocina * Lavadora * Aire acondicionado,,113,3,36
+234,Habitacion privada,Private room in Gracia,1 huesped * 3 dormitorios * 1 bano compartido,Wifi * Cocina * Lavadora,,28,3,201
+235,Alojamiento entero: piso,Central y encantador apartamento.,6 huespedes * 2 dormitorios * 4 camas * 2 banos,Wifi * Cocina * Lavadora * Aire acondicionado,4.49,122,3,50
+236,Habitacion privada,Central Room,"1 huesped * 1 dormitorio * 1 cama * 1,5 banos compartidos",Wifi * Cocina * Lavadora,4.42,29,8,47
+237,Alojamiento entero: piso,Impresionante apartamento en la playa,4 huespedes * 1 dormitorio * 2 camas * 1 bano,Wifi * Cocina * Lavadora * Aire acondicionado,4.71,93,8,151
+238,Habitacion privada,SINGLE private bedroom,1 huesped * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Cocina,4.81,24,8,218
+239,Habitacion privada,Beach modern spacious room Queen bed in Poblenou,2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Cocina * Lavadora * Aire acondicionado,5.0,53,8,32
+240,Alojamiento entero: alojamiento residencial,Ameno Atico: cerca de la playa pero centrico,3 huespedes * 1 dormitorio * 4 camas * 1 bano,Wifi * Cocina * Lavadora * Aire acondicionado,4.74,119,8,20
+241,Habitacion privada,Hab X 2 :) Hospital Sant Pau y Sagrada Familia,2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Cocina,4.59,45,8,107
+242,Habitacion privada,Habitacion sensilla confortable en casa familiar,1 huesped * 1 dormitorio * 1 cama * 1 bano,Wifi,4.73,31,8,111
+243,Habitacion privada,Precioso apartamento cerca de Sagrada Familia,2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Cocina * Lavadora,,41,8,196
+244,Habitacion privada,Twin Room Central + Close to the beach,"2 huespedes * 1 dormitorio * 2 camas * 1,5 banos",Wifi * Cocina,4.5,48,8,246
+245,Habitacion privada,Habitacion privada en plena de Barcelona,2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Cocina * Aire acondicionado,4.84,48,8,142
+246,Habitacion privada,Double Simple Room + Perfect Central Location,"2 huespedes * 1 dormitorio * 1 cama * 1,5 banos compartidos",Wifi * Cocina,4.45,42,8,86
+247,Alojamiento entero: piso,Apartamento SAGRADA FAMILIA - free WIFI - NETFLIX,5 huespedes * 2 dormitorios * 2 camas * 1 bano,Wifi * Cocina * Lavadora * Aire acondicionado,4.23,110,8,23
+248,Habitacion privada,Ciutadella-vila olimpica beach 1,2 huespedes * 1 dormitorio * 1 cama * 2 banos compartidos,Wifi * Cocina * Aire acondicionado,4.59,53,8,59
+249,Alojamiento entero: piso,Poblenou-New York,"2 huespedes * 1 dormitorio * 1 cama * 1,5 banos",Wifi * Cocina * Lavadora * Aire acondicionado,4.93,130,8,188
+250,Habitacion privada,"Cozy room, worthy of you !! ONLY FOR GIRLS","1 huesped * 1 dormitorio * 1,5 banos compartidos",Wifi * Lavadora,4.87,32,5,71
+251,Habitacion privada,Habitacion en pleno centro de barcelona,1 huesped * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Cocina,4.75,43,5,135
+252,Habitacion privada,Cosy & Warm single bed near (100 m) FCB stadium,1 huesped * Estudio * 1 cama * 1 bano compartido,Wifi * Cocina * Lavadora,4.56,32,5,64
+253,Habitacion privada,Ile 2,1 huesped * 1 dormitorio * 1 bano compartido,Wifi * Cocina * Aire acondicionado,4.74,30,4,149
+254,Habitacion privada,Ile1,1 huesped * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Cocina * Aire acondicionado,4.45,32,4,150
+255,Habitacion privada,Habitacion individual a 15' del centro,1 huesped * 1 dormitorio * 1 cama * 1 bano privado,Wifi * Cocina * Lavadora * Aire acondicionado,4.95,42,4,136
+256,Habitacion privada,"El Faro, Habitacion privada 1",2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Cocina * Lavadora,4.56,42,4,91
+257,Habitacion privada,habitacion 1 en el parque guell limpia y tranquila,"2 huespedes * 1 dormitorio * 1,5 banos",Wifi,4.32,33,4,256
+258,Habitacion privada,SUNNY room for 2 or 3 person near sagrada familia,3 huespedes * 1 dormitorio * 2 camas * 1 bano compartido,Wifi * Cocina,4.0,41,4,220
+259,Habitacion privada,Habitacion doble muy comoda/sagrada familia,2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Cocina,4.64,39,4,132
+260,Habitacion privada,"El Faro, habitacion privada 2",2 huespedes * 1 dormitorio * 2 camas * 1 bano compartido,Wifi * Cocina * Lavadora,4.48,38,4,92
+261,Habitacion privada,"El Faro, habitacion privada 3",2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Cocina * Lavadora,4.57,31,4,93
+262,Habitacion privada,2 bed in single room Near Sagrada Familia,"2 huespedes * 1 dormitorio * 1 cama * 1,5 banos compartidos",Wifi * Cocina * Lavadora * Aire acondicionado,4.57,56,4,3
+263,Habitacion privada,Sunny room for 2 persons near Park Guell Barcelona,2 huespedes * 1 dormitorio * 1 cama * 1 bano compartido,Wifi * Cocina * Lavadora,4.38,36,4,236
+264,Alojamiento entero: loft,"Luxury loft new and fully furnished, top amenities","4 huespedes * 1 dormitorio * 3 camas * 1,5 banos",Wifi * Cocina * Lavadora * Aire acondicionado,5.0,105,4,168
+265,Alojamiento entero: piso,SUITE 30m2. AirCond. Heating. WIFI. LIFT. PARKING.,2 huespedes * 1 dormitorio * 2 camas * 1 bano,Wifi * Cocina * Aire acondicionado,4.51,96,10,219

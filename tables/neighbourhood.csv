@@ -1,0 +1,69 @@
+,district_id,neighbourhood,neighbourhood_id
+0,1,el Raval,43
+4,1,Gothic Quarter,6
+8,1,la Barceloneta,46
+12,1,"Sant Pere, Santa Caterina i la Ribera",21
+16,2,Fort Pienc,5
+20,2,Sagrada Familia,14
+24,2,la Dreta de l'Eixample,48
+28,2,l'Antiga Esquerra de l'Eixample,45
+32,2,la Nova Esquerra de l'Eixample,55
+36,2,Sant Antoni,16
+40,9,el Poble Sec,40
+44,9,la Marina de Port,52
+48,9,la Font de la Guatlla,50
+52,9,Hostafrancs,8
+56,9,la Bordeta,47
+60,9,Sants - Badal,23
+64,9,Sants,22
+68,9,la Marina del Prat Vermell,53
+70,5,les Corts,66
+74,5,la Maternitat i Sant Ramon,54
+78,5,Pedralbes,11
+82,10,"Vallvidrera, el Tibidabo i les Planes",26
+86,10,Sarria,24
+90,10,les Tres Torres,68
+94,10,Sant Gervasi - la Bonanova,19
+98,10,Sant Gervasi - Galvany,18
+102,10,el Putxet i el Farro,42
+106,3,Vallcarca i els Penitents,25
+110,3,el Coll,36
+114,3,la Salut,58
+118,3,la Vila de Gracia,65
+122,3,el Camp d'en Grassot i Gracia Nova,32
+126,4,el Baix Guinardo,29
+130,4,Can Baro,1
+134,4,el Guinardo,38
+138,4,la Font d'en Fargues,49
+142,4,el Carmel,34
+146,4,la Teixonera,59
+150,4,Sant Genis dels Agudells,17
+154,4,Montbau,9
+158,4,la Vall d'Hebron,62
+162,4,Horta,7
+166,6,Vilapicina i la Torre Llobeta,28
+170,6,Porta,12
+174,6,el Turo de la Peira,44
+178,6,la Guineueta,51
+182,6,Canyelles,2
+186,6,les Roquetes,67
+190,6,Verdun,27
+194,6,la Prosperitat,56
+198,6,la Trinitat Nova,60
+202,6,Ciutat Meridiana,3
+206,7,la Trinitat Vella,61
+210,7,el Bon Pastor,31
+214,7,Sant Andreu,15
+218,7,la Sagrera,57
+222,7,el Congres i els Indians,37
+226,7,Navas,10
+230,8,el Camp de l'Arpa del Clot,33
+234,8,el Clot,35
+238,8,el Parc i la Llacuna del Poblenou,39
+242,8,la Vila Olimpica del Poblenou,64
+246,8,el Poblenou,41
+250,8,Diagonal Mar i el Front Maritim del Poblenou,4
+254,8,el Besos i el Maresme,30
+258,8,Provencals del Poblenou,13
+262,8,Sant Marti de Provencals,20
+266,8,la Verneda i la Pau,63
